@@ -1,0 +1,21 @@
+/* Eigen css */
+body {
+  background-color: white;
+  color: #0c2340;
+}
+
+header,
+footer {
+  background-color: #0c2340;
+  color: white;
+}
+
+main,
+aside {
+  background-color: #d6e4ee;
+}
+
+.donkerblauw {
+  background-color: #0c2340;
+  color: white;
+}
